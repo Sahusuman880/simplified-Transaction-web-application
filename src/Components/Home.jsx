@@ -7,7 +7,7 @@ function Home() {
         <div class="mx-auto max-w-2xl py-20 sm:py-30 lg:py-35">
           <div class="hidden sm:mb-8 sm:flex sm:justify-center">
             <div class="relative rounded-full px-3 py-1 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-              Announcing our next round of funding.{" "}
+              Please read DOCS for better understanding.{" "}
               <a href="#" class="font-semibold text-indigo-600">
                 <span class="absolute inset-0" aria-hidden="true"></span>Read
                 more <span aria-hidden="true">&rarr;</span>
@@ -19,9 +19,8 @@ function Home() {
               Data to enrich your online business
             </h1>
             <p class="mt-6 text-lg leading-8 text-gray-600">
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui
-              lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat
-              fugiat aliqua.
+              Empower your financial journey with every transaction, turning
+              moments into milestones. Your money, your control, your freedom.
             </p>
             <div class="mt-10 flex items-center justify-center gap-x-6">
               <a
